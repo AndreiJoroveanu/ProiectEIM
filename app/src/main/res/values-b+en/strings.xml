@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EIM Project</string>
+    <string name="tema4_linia1">This text is in english, because the locale is set to EN.</string>
+    <string name="tema4_linia2">From en.wikipedia.org:\nThe United States of America (U.S.A.), commonly known as the United States (U.S.) or America, is a country primarily located in North America. It is a federation of 50 states, a federal capital district (Washington, D.C.), and 326 Indian reservations. Outside the union of states, it asserts sovereignty over five major unincorporated island territories and various uninhabited islands. The country has the world\'s third-largest land area, second-largest exclusive economic zone, and third-largest population, exceeding 334 million.</string>
+    <string name="tema4_buton_link" formatted="false">https://en.m.wikipedia.org/wiki/United_States</string>
+    <string name="tema4_buton_label">Learn more</string>
+</resources>

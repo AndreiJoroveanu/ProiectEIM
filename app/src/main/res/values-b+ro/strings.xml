@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proiect EIM</string>
+    <string name="tema4_linia1">Acest text este în limba română, deoarece localul este setat pe RO.</string>
+    <string name="tema4_linia2">De la ro.wikipedia.org:\nRomânia este un stat situat în sud-estul Europei Centrale, pe cursul inferior al Dunării, la nord de peninsula Balcanică și la țărmul nord-vestic al Mării Negre. Pe teritoriul ei este situată aproape toată suprafața Deltei Dunării și partea sudică și centrală a Munților Carpați. Se învecinează cu Bulgaria la sud, Serbia la sud-vest, Ungaria la nord-vest, Ucraina la nord și est și Republica Moldova la est, iar țărmul Mării Negre se găsește la sud-est.</string>
+    <string name="tema4_buton_link" formatted="false">https://ro.m.wikipedia.org/wiki/Rom%C3%A2nia</string>
+    <string name="tema4_buton_label">Aflați mai multe</string>
+</resources>

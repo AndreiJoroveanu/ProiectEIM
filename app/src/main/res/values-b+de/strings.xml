@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EIM-Projekt</string>
+    <string name="tema4_linia1">Dieser Text ist auf Deutsch, da das Gebietsschema auf DE eingestellt ist.</string>
+    <string name="tema4_linia2">Von de.wikipedia.org:\nDeutschland (Vollform des Staatennamens seit 1949: Bundesrepublik Deutschland) ist ein Bundesstaat in Mitteleuropa. Es hat 16 Bundesländer und ist als freiheitlich-demokratischer und sozialer Rechtsstaat verfasst. Die 1949 gegründete Bundesrepublik Deutschland stellt die jüngste Ausprägung des 1871 erstmals begründeten deutschen Nationalstaats dar. Im Rahmen der Wiedervereinigung Deutschlands wurde Berlin 1990 Bundeshauptstadt und 1991 zum Parlaments- und Regierungssitz bestimmt.</string>
+    <string name="tema4_buton_link" formatted="false">https://de.m.wikipedia.org/wiki/Deutschland</string>
+    <string name="tema4_buton_label">Erfahren Sie mehr</string>
+</resources>

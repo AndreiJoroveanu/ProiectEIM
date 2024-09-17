@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto EIM</string>
+    <string name="tema4_linia1">Este texto está en español, porque la configuración regional está configurada en ES.</string>
+    <string name="tema4_linia2">De es.wikipedia.org:\nEspaña, formalmente Reino de España,​ es un país soberano transcontinental, constituido en Estado social y democrático de derecho y cuya forma de gobierno es la monarquía parlamentaria. Es uno de los veintisiete Estados soberanos que forman la Unión Europea. Su territorio, con capital en Madrid,​ está organizado en diecisiete comunidades autónomas, formadas a su vez por cincuenta provincias, y dos ciudades autónomas.</string>
+    <string name="tema4_buton_link" formatted="false">https://es.m.wikipedia.org/wiki/Espa%C3%B1a</string>
+    <string name="tema4_buton_label">Aprende más</string>
+</resources>

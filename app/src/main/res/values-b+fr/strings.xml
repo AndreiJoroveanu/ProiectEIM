@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet EIM</string>
+    <string name="tema4_linia1">Ce texte est en français, car la locale est définie sur FR.</string>
+    <string name="tema4_linia2">Depuis fr.wikipedia.org:\nLa France, en forme longue République française, est un État souverain transcontinental dont le territoire métropolitain s\'étend en Europe de l\'Ouest et dont le territoire ultramarin s\'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu\'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l\'Allemagne, la Suisse, l\'Italie, l\'Espagne, Monaco et l\'Andorre en Europe, auxquelles s\'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d\'importantes façades maritimes sur l\'Atlantique, la Méditerranée, le Pacifique et l\'océan Indien, lui permettant de bénéficier de la deuxième plus vaste zone économique exclusive du monde.</string>
+    <string name="tema4_buton_link" formatted="false">https://fr.m.wikipedia.org/wiki/France</string>
+    <string name="tema4_buton_label">Apprendre encore plus</string>
+</resources>
